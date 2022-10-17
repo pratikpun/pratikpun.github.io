@@ -36,6 +36,8 @@ body {
 .title-image {
   width: 40%;
   height: auto;
+  border: 2.5px solid #fff;
+  border-radius: 50%;
 }
 
 @media (max-width: 991px) {
