@@ -17,4 +17,4 @@ CV.
 Basic UI designs using CSS and Bootstrap.
 Responsive features on different device screens.
 
-### Visit my official link [PRAITK PUN] (pratikpun.github.io).
+### Visit my official link [PRAITK PUN](pratikpun.github.io).
